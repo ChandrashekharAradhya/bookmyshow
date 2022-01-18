@@ -44,11 +44,13 @@ function Header() {
    </Container>
  </Navbar>
  <Container  style= {{background:"black", color:"white"}} >
-    <a>Movies</a>&nbsp;&nbsp;&nbsp;
-    <a>Shows</a>&nbsp;&nbsp;&nbsp;
-    <a>Events</a>&nbsp;&nbsp;&nbsp;
+  <a>Movies</a>&nbsp;&nbsp;&nbsp; 
+   <a>Events</a>&nbsp;&nbsp;&nbsp;
     <a>Shows</a>&nbsp;&nbsp;&nbsp;
     <a>Sports</a>
+
+   
+    
  </Container>
     </div>
   );
